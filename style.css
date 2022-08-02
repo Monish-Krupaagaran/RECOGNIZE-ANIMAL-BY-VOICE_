@@ -1,0 +1,62 @@
+body {
+
+    background-color:darkseagreen;
+    font-family: cursive;
+}
+
+#div_1 {
+
+    background-color:dimgray;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#id_2 {
+
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+}
+
+
+#id_1 {
+
+    color:ghostwhite;
+}
+
+#p_id_1 {
+
+    font-family: sans-serif;
+    color:ghostwhite;
+}
+
+.img  {
+
+    height: 300px;
+}
+
+#Detected_id_1 {
+
+    color: blueviolet;
+}
+
+#Detected_id_2 {
+
+    color: blueviolet;
+    font-weight: bold;
+}
+
+#div_2 {
+
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    bottom:0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    text-shadow: 5px 5px 5px gray;
+}
+
+
